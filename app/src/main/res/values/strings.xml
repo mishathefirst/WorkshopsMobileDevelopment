@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Workshops</string>
+    <string name="second_workshop">Second workshop</string>
+    <string name="third_workshop">Third workshop</string>
+    <string name="root_fragment">Root fragment</string>
+    <string name="add_red_fragment">Add red fragment</string>
+    <string name="add_blue_fragment">Add blue fragment</string>
+    <string name="remove_last_fragment">Remove last fragment</string>
+    <string name="replace_with_green">Replace with green fragment</string>
+    <!--<string name="root_fragment">Root fragment</string>-->
+    <string name="increase_value">Increase value</string>
+    <string name="change_background">Change background</string>
+    <string name="second_fragment">Second fragment</string>
+</resources>
